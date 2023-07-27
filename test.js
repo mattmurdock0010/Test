@@ -7,8 +7,8 @@ document.addEventListener('contextmenu', event => event.preventDefault());
 var tid = setInterval(function() { var bef = new Date().getTime();debugger;var af = new Date().getTime();if (af - bef > 100){clearInterval(tid);window.location.href = "/";} }, 100);
 </script>
 
-//<script src="https://msplay.site/player/assets/devtools-detector/promise-polyfill.js"></script>
-//<script src="https://msplay.site/player/assets/devtools-detector/devtools-detector.js"></script>
+<script src="https://msplay.site/player/assets/devtools-detector/promise-polyfill.js"></script>
+<script src="https://msplay.site/player/assets/devtools-detector/devtools-detector.js"></script>
 <script type="text/javascript">
 !function() {
 	/*referans:box*/
