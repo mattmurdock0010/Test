@@ -8,7 +8,6 @@ var tid = setInterval(function() { var bef = new Date().getTime();debugger;var a
 </script>
 
 <script src="https://msplay.site/player/assets/devtools-detector/promise-polyfill.js"></script>
-<script src="https://msplay.site/player/assets/devtools-detector/devtools-detector.js"></script>
 <script type="text/javascript">
 !function() {
 	/*referans:box*/
