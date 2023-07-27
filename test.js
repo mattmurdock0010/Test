@@ -31,7 +31,7 @@ html,body{height:100%;width:100%;padding:0;margin:0;background-color:black}#play
 </style>
 
 <script type="text/javascript">
-var player_base_url = "https://msplay.site/player";
+var player_base_url = "https://github.com";
 </script>
 
 </head>
